@@ -1,0 +1,11 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "react ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "M-Ray",
+  "license": "ISC"
+}
