@@ -21,4 +21,4 @@ app.use(async ctx => {
 
 app.listen(3000)
 
-console.log('系统启动，端口：8080')
+console.log('系统启动，端口：3000')
